@@ -1,3 +1,6 @@
+# This project is currently unmaintained!
+Please feel free to fork it
+
 # Insta-mine Deepslate
 ![An image of a deepslate block from minecraft](https://minecraft.wiki/images/Deepslate.png?7b6d7)
 
